@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![imagen](https://www.infobae.com/new-resizer/akhDd2bKVf5-XgoJlUOdhIZcDT4=/992x558/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/NNC7TA7K2NG5HM2REZSAE244XE.jpg)
 ---
-cheto el auto 🔥
 
 ```js
   console.log('js')
