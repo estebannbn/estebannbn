@@ -25,6 +25,7 @@ A store app designed for managing and selling tickets to different types of even
 - Supports multiple event categories (sports, conferences, concerts, etc.)
 - Generates unique QR codes for secure and fast ticket validation
 - Includes a store-like interface for browsing and purchasing tickets
+- Integration with MercadoPago for payments
 - Includes different statistics for organizations (revenue per events, revenue per category, and more)
 
 ---
